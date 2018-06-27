@@ -62,7 +62,7 @@ def usage():
 	-s or --host = "www.google.com"
 	-p or --port = 80 > 80 (http) or 443 (htttps)
 	-t or --turbo  = 200 > defaul 200
-	-a or --path = "/" > serangan spesifik 
+	-a or --path = "/" > file path
 	-u or --uri = "/" > lokasi/halaman dimana website gk redirect lgi misalnya: /index.jsp 
 	
 	-m or --method = "GET" > GET / POST
@@ -165,8 +165,8 @@ if __name__ == '__main__':
 	print("//////////////////////////////////////")
 	print("//         Layer 7 Attack           //")
 	print("//   [+] Obsidian Cyber Team [+]    //")
-	print("//       .:: MusH4ck007 ::.         //")
-	print("/////////////////////////////////////")
+	print("//       .:: Touch MR.A ::.         //")
+	print("//////////////////////////////////////")
 	print("")
 	print("Target Lock In :")
 	print("Web: ",host)
